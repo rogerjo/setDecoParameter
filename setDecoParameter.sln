@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "setDecoParameter", "setDecoParameter\setDecoParameter.vbproj", "{151B0939-E1F4-4D7E-9EF9-EA645D2B9372}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "removeDecoParameter", "removeDecoParameter\removeDecoParameter.vbproj", "{72E60B0E-36F4-4E3E-94A2-105327839E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151B0939-E1F4-4D7E-9EF9-EA645D2B9372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151B0939-E1F4-4D7E-9EF9-EA645D2B9372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151B0939-E1F4-4D7E-9EF9-EA645D2B9372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151B0939-E1F4-4D7E-9EF9-EA645D2B9372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E60B0E-36F4-4E3E-94A2-105327839E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E60B0E-36F4-4E3E-94A2-105327839E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E60B0E-36F4-4E3E-94A2-105327839E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E60B0E-36F4-4E3E-94A2-105327839E92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
